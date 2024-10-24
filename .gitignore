@@ -1,0 +1,41 @@
+# Node.js
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+
+# Mac OS
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+.pnpm-debug.log*
+.log
+
+# Docker
+docker-compose.override.yml
+
+# VSCode
+.vscode/
+.history/
+
+# Production
+/build
+
+# Optional npm cache directory
+.npm
+
+# TypeScript
+*.tsbuildinfo
+
+# Coverage directory
+coverage/
+
+# Config files
+/.env
+*.env
