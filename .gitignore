@@ -39,3 +39,4 @@ coverage/
 # Config files
 /.env
 *.env
+backend/.env
